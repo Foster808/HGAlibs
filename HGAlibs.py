@@ -7,7 +7,7 @@ place = input("Enter your favorite place: ")
 adjective = input("Enter an adjective: ")
 word3 = input("Enter a third word: ")
 
-print ("----------YOUR HEALING GEM OF ARCADIA LIBS------------")
+print ("----------YOUR HEALING GEM OF ARCADIA LIBS-----------")
 
 print ("The healing gem and the",word1,"went along with", pluralNoun)
 
